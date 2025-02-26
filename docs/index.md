@@ -15,11 +15,11 @@ Tijdens mijn wandelingen laat ik me inspireren door de prachtige omgeving en leg
 
 ## Recente posts
 
-1. [Wandeling Buitengebieden Beverwijk](/2025/2025-02-26_wandeling-buitengebieden-beverwijk)
+1. [Ontdek de verborgen schoonheid van Beverwijk: een wandeling door de Buitenlanden](2025/2025-02-26_wandeling-buitenlanden-beverwijk.md)
 
 ## Apparatuur
 
-- Canon EOS 350D
-- Canon EOS 400D
-- Canon EOS 5D IV
-- Canon Powershot G3
+- [Canon EOS 350D](./over-mij.md#apparatuur)
+- [Canon EOS 400D](./over-mij.md#apparatuur)
+- [Canon EOS 5D IV](./over-mij.md#apparatuur)
+- [Canon Powershot G3](./over-mij.md#apparatuur)

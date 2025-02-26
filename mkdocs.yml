@@ -2,8 +2,8 @@ site_name: Rohan blog
 nav:
   - Home: index.md
   - 2025:
-    - Overzicht: 2025/index.md
-    - Wandeling Buitengebieden Beverwijk: 2025/2025-02-26_wandeling-buitengebieden-beverwijk.md
+    - Overzicht 2025: 2025/index.md
+    - Wandeling De Buitenlanden Beverwijk: 2025/2025-02-26_wandeling-buitenlanden-beverwijk.md
   - Over mij: over-mij.md
 theme:
   name: terminal

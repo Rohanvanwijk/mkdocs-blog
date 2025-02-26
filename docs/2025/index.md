@@ -1,3 +1,3 @@
 # Blog posts 2025
 
-- [Wandeling Buitengebieden Beverwijk](/2025/2025-02-26_wandeling-buitengebieden-beverwijk)
+- [Ontdek de verborgen schoonheid van Beverwijk: een wandeling door de Buitenlanden](2025-02-26_wandeling-buitenlanden-beverwijk.md)
