@@ -4,6 +4,10 @@ nav:
   - 2025:
     - Overzicht 2025: 2025/index.md
     - Wandeling De Buitenlanden Beverwijk: 2025/2025-02-26_wandeling-buitenlanden-beverwijk.md
+  - 2018:
+    - Overzicht 2018: 2018/index.md
+    - Vakantie Griekenland: 2018/2018-07_vakantie-griekenland.md
   - Over mij: over-mij.md
 theme:
   name: terminal
+  custom_dir: overrides
