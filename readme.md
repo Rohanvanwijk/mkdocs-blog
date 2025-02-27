@@ -10,3 +10,7 @@ Used tools
 
 1. Install [Mkdocs](https://www.mkdocs.org/) -- pip install mkdocs
 2. run mkdocs serve
+
+## Tips
+
+- Dont use underscore for filenames

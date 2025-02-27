@@ -15,7 +15,7 @@ Tijdens mijn wandelingen laat ik me inspireren door de prachtige omgeving en leg
 
 ## Recente posts
 
-1. [Ontdek de verborgen schoonheid van Beverwijk: een wandeling door de Buitenlanden](2025/2025-02-26_wandeling-buitenlanden-beverwijk.md)
+1. [Ontdek de verborgen schoonheid van Beverwijk: een wandeling door de Buitenlanden](2025/2025-02-26-wandeling-buitenlanden-beverwijk.md)
 
 ## Apparatuur
 
