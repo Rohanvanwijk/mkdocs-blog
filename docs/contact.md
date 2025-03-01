@@ -9,3 +9,5 @@
   <textarea id="message" name="message" required></textarea><br>
   <input type="submit" value="Submit">
 </form>
+
+[GDPR-compliant Web Analytics](https://clicky.com/101479283)
