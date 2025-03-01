@@ -6,6 +6,11 @@ Ik ben Rohan, [frontend developer](https://rohanvanwijk.nl) bij Synetic.
 
 ## Apparatuur
 
+- [Canon EOS 350D](https://www.kristoffertrolle.com/2021/blast-from-the-past-canon-eos-350d-canon-rebel-digital-xt-retrospective-review/)
+- [Canon EOS 400D](https://www.photofacts.nl/fotografie/rubriek/reviews/eerste_ervaringen_met_de_canon_400d.asp)
+- [Canon EOS 5D IV](https://www.nandoonline.com/reviews/review-canon-eos-5d-mark-iv/)
+- [Canon Powershot G3](https://www.dpreview.com/articles/1487361105/gear-that-changed-my-photographic-life-the-canon-powershot-g3)
+
 *Coming soon*
 
 [GDPR-compliant Web Analytics](https://clicky.com/101479283)

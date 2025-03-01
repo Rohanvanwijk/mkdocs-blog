@@ -31,6 +31,6 @@ De avondzon kleurde de lucht in warme tinten toen Hugo en ik aankwamen bij Licht
 
 ![Een verlaten veranda met kunstwerk, Lichtfabriek Haarlem](https://ik.imagekit.io/rhn00jwt/tr:w-900/2018-07-24-lichtfabriek-haarlem/HN_9978-09.jpg?updatedAt=1740824328282)
 
-![Pilaren](https://ik.imagekit.io/rhn00jwt/tr:w-900/2018-07-24-lichtfabriek-haarlem/HN_9982-10.jpg?updatedAt=1740824324971)
+![Pilaren, Lichtfabriek Haarlem](https://ik.imagekit.io/rhn00jwt/tr:w-900/2018-07-24-lichtfabriek-haarlem/HN_9982-10.jpg?updatedAt=1740824324971)
 
 Foto's van Hugo:
