@@ -5,6 +5,8 @@ tiles:
     alt_text: 'Griekse vlag, foto genomen door Rohan Photo'
   - img_src: https://ik.imagekit.io/rhn00jwt/tr:w-200/2018-07-24-lichtfabriek-haarlem/HN_9859-01.jpg?updatedAt=1740824327328
     alt_text: 'Lichtfabriek Haarlem'
+  - img_src: https://ik.imagekit.io/rhn00jwt/tr:w-200/2018-09-09-lancia-dag/HN_2250-03.JPG?updatedAt=1740946288054
+    alt_text: 'Een Lancia Delta Italia'
 ---
 
 # Overzicht 2018
