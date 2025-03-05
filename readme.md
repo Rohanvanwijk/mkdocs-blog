@@ -14,3 +14,13 @@ Used tools
 ## Tips
 
 - Dont use underscore for filenames
+
+## Image magick commands
+
+Collage side by side, resized to 900px and gap of 8px
+
+Add -rotate 90 to rotate 90 degrees
+
+```bash
+magick montage -geometry 900x900+8+8 image-1.JPG image-2.JPG output-montage.jpg
+```
