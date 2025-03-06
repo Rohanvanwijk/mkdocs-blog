@@ -19,3 +19,5 @@ Deze zomer brachten we een onvergetelijke dag door in Disneyland Parijs, waar de
 ![Buzz Lightyear in Disneyland Parijs](https://ik.imagekit.io/rhn00jwt/tr:w-900/2019-08-08-disneyland-parijs/disneyparijs-7.jpg?updatedAt=1740834438383)
 
 ![Zonsondergang bij Disneyland Parijs](https://ik.imagekit.io/rhn00jwt/tr:w-900/2019-08-08-disneyland-parijs/disneyparijs-8.jpg?updatedAt=1740834439988)
+
+*Gemaakt met Canon 400D en 18-55mm kitlens*

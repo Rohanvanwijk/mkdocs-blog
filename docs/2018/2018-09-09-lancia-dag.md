@@ -30,3 +30,5 @@ Naast zijn rallysuccessen is de Delta Integrale ook geliefd bij autoliefhebbers 
 De locatie waar de meeting plaats vond:
 
 ![De locatie waar de meeting plaats vond](https://ik.imagekit.io/rhn00jwt/tr:w-900/2018-09-09-lancia-dag/HN_2285-13.JPG?updatedAt=1740946287406)
+
+*Gemaakt met Canon 5D mk4*
