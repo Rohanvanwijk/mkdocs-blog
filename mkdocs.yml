@@ -8,6 +8,7 @@ nav:
     - Overzicht 2020: 2020/index.md
     - Vliegtuig spotten op Texel: 2020/2020-06-20-texel-vliegveld.md
     - Kerstmagie in Maastricht: 2020/2020-12-21-kerst-maastricht.md
+    - Supercar Sunday Zandvoort: 2020/2020-09-20-supercarsunday-zandvoort.md
   - 2019:
     - Overzicht 2019: 2019/index.md
     - Disneyland Parijs: 2019/2019-08-08-disneyland-parijs.md
@@ -18,6 +19,7 @@ nav:
     - Lancia meeting dag: 2018/2018-09-09-lancia-dag.md
   - Over mij: over-mij.md
   - Contact: contact.md
+  - Sitemap: sitemap.xml
 theme:
   name: terminal
   custom_dir: overrides
