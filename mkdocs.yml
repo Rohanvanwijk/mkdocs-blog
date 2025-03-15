@@ -1,4 +1,7 @@
 site_name: Rohan blog
+site_author: Rohan van Wijk
+site_description: Rohan's blog website
+site_url: https://blog.rohanvanwijk.nl
 nav:
   - Home: index.md
   - 2025:
