@@ -7,7 +7,7 @@
   <input type="email" id="email" name="email" required><br>
   <label for="message">Bericht:</label><br>
   <textarea id="message" name="message" required></textarea><br>
-  <input type="submit" value="Submit">
+  <input type="submit" value="Verzenden">
 </form>
 
 <style>
