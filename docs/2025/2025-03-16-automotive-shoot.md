@@ -1,12 +1,12 @@
 ---
 show_tiles_first: true
 tiles:
-  - img_src: https://ik.imagekit.io/rhn00jwt/tr:w-200,ar-1-1/2025-03-16-automotive-shoot/20250316_naamloos_0130.jpg?updatedAt=1742161442529
-    alt_text: 'Golf GTI mk 8 wiel'
-  - img_src: https://ik.imagekit.io/rhn00jwt/tr:w-200,ar-1-1/2025-03-16-automotive-shoot/20250316_naamloos_0006-4.jpg?updatedAt=1742161402441
-    alt_text: 'Golf GTI mk 8 op een ramp'
-  - img_src: https://ik.imagekit.io/rhn00jwt/tr:w-200,ar-1-1/2025-03-16-automotive-shoot/20250316_naamloos_0070-3.jpg?updatedAt=1742161432957
-    alt_text: 'Golf GTI in een donkere parkeergarage'
+  - img_src: https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-200,ar-1-1/2025-03-16-automotive-shoot/20250316_naamloos_0130.jpg
+    alt_text: "Golf GTI mk 8 wiel"
+  - img_src: https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-200,ar-1-1/2025-03-16-automotive-shoot/20250316_naamloos_0006-4.jpg
+    alt_text: "Golf GTI mk 8 op een ramp"
+  - img_src: https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-200,ar-1-1/2025-03-16-automotive-shoot/20250316_naamloos_0070-3.jpg
+    alt_text: "Golf GTI in een donkere parkeergarage"
 ---
 
 # Fotografie en fun: onze autoshoot op een zonnige ochtend
@@ -21,6 +21,6 @@ Toen de zon langzaam zakte en het licht zachter werd, wisten we dat we iets spec
 
 De foto’s die we die dag hebben gemaakt, zijn hieronder te zien. Benieuwd naar meer werk van Thijs? Bekijk zijn website op [www.thijspausma.nl](https://thijspausma.nl).
 
-![Volkswagen Golf GTI mk8 en Volkswagen Polo AW](https://ik.imagekit.io/rhn00jwt/2025-03-16-automotive-shoot/20250316_naamloos_0007-3-bewerkt.jpg?updatedAt=1742161411408)
+![Volkswagen Golf GTI mk8 en Volkswagen Polo AW](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/2025-03-16-automotive-shoot/20250316_naamloos_0007-3-bewerkt.jpg)
 
-![Een grid van Volkswagen Golf GTI mk8](https://ik.imagekit.io/rhn00jwt/2025-03-16-automotive-shoot/grid-2.jpg?updatedAt=1742161453384)
+![Een grid van Volkswagen Golf GTI mk8](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/2025-03-16-automotive-shoot/grid-2.jpg)

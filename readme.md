@@ -14,6 +14,7 @@ Used tools
 ## Tips
 
 - Dont use underscore for filenames
+- prefix image kit url with cloudflare worker for the correct signature: https://imagekit.rohan-10.workers.dev?url=foo
 
 ## Image magick commands
 
