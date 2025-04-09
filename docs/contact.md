@@ -1,6 +1,6 @@
 # Vragen? Neem contact op
 
-<form action="https://dropbox.rohan-10.workers.dev" method="POST">
+<form action="https://submitron.rohan-10.workers.dev/" method="POST">
   <label for="name">Naam:</label><br>
   <input type="text" id="name" name="name" required><br>
   <label for="email">Email:</label><br>
