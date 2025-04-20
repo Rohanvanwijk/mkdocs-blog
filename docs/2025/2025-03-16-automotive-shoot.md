@@ -21,6 +21,6 @@ Toen de zon langzaam zakte en het licht zachter werd, wisten we dat we iets spec
 
 De foto’s die we die dag hebben gemaakt, zijn hieronder te zien. Benieuwd naar meer werk van Thijs? Bekijk zijn website op [www.thijspausma.nl](https://thijspausma.nl).
 
-![Volkswagen Golf GTI mk8 en Volkswagen Polo AW](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/2025-03-16-automotive-shoot/20250316_naamloos_0007-3-bewerkt.jpg)
+![Volkswagen Golf GTI mk8 en Volkswagen Polo AW](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2025-03-16-automotive-shoot/20250316_naamloos_0007-3-bewerkt.jpg)
 
-![Een grid van Volkswagen Golf GTI mk8](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/2025-03-16-automotive-shoot/grid-2.jpg)
+![Een grid van Volkswagen Golf GTI mk8](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2025-03-16-automotive-shoot/grid-2.jpg)
