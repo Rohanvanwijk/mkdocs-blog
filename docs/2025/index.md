@@ -14,3 +14,4 @@ tiles:
 - [Ontdek de verborgen schoonheid van Beverwijk: een wandeling door de Buitenlanden](2025-02-26-wandeling-buitenlanden-beverwijk.md)
 - [Fotografie en fun: onze autoshoot op een zonnige ochtend](2025-03-16-automotive-shoot.md)
 - [Bezoek aan Autoclassiqa](2025-04-19-autoclassiqa.md)
+- [Mijn Favoriete Muziek](2025-04-21-muziek.md)

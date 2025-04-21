@@ -1,4 +1,4 @@
-# Bezoek aan Autoclassiqa
+# Bezoek aan AutoClassiqa 2025: Een dag vol klassieke en moderne auto's in Utrech
 
 Op een zonnige dag besloten we een bezoek te brengen aan **[Autoclassiqa](https://www.autoclassiqa.nl/)**, een autoshow waar zowel klassieke als moderne auto's centraal staan. Voor iedere autoliefhebber een waar paradijs!
 

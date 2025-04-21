@@ -1,6 +1,6 @@
 # Over mij
 
-Ik ben Rohan, een frontend developer.
+Ik ben Rohan, een [frontend developer](https://rohanvanwijk.nl).
 
 ![Profiel Rohan](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:r-100,w-100,e-sharpen/profile-rohan.png)
 
