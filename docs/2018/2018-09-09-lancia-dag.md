@@ -30,4 +30,4 @@ De locatie waar de meeting plaats vond:
 
 ![De locatie waar de meeting plaats vond](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2018-09-09-lancia-dag/HN_2285-13.JPG)
 
-_Gemaakt met Canon 5D mk4_
+_Gemaakt met Canon [5D mk4](../over-mij.md)_

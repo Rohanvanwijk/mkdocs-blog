@@ -23,4 +23,4 @@ Een geweldige dag voor iedereen die van auto's houdt!
 
 ![Een mooie Subaru](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2025-04-19-autoclassiqa/_MG_0432.JPG)
 
-_Geschoten met Canon 100D met 28mm lens_
+_Geschoten met [Canon 100D](../over-mij.md) met 28mm lens_

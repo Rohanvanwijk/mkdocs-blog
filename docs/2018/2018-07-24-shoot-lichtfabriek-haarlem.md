@@ -13,7 +13,7 @@ tiles:
 
 De avondzon kleurde de lucht in warme tinten toen Hugo en ik aankwamen bij Lichtfabriek in Haarlem. Het was het perfecte moment om de magie van de zonsondergang vast te leggen, terwijl het industriële decor van de oude fabriek een uniek contrast vormde met het zachte, natuurlijke licht. Samen verkenden we de omgeving, speelden met schaduwen en lijnen, en lieten ons inspireren door de serene sfeer. Het werd een shoot vol goudkleurige herinneringen en creatieve energie. Een avond om nooit te vergeten! 🌅
 
-_Gemaakt met Canon 5D mk4_
+_Gemaakt met Canon [5D mk4](../over-mij.md)_
 
 ![Lichtfabriek Haarlem](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2018-07-24-lichtfabriek-haarlem/HN_9859-01.jpg)
 

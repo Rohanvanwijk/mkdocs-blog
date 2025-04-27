@@ -20,4 +20,4 @@ Rond de kerstdagen bezochten we Maastricht. We verkenden de stad, die in een ech
 
 ![Een druk bezochte straat in Maastricht](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2019-12-21-maastricht/20191221-maastrigt-437.jpg)
 
-_Gemaakt met Canon 5D mk4_
+_Gemaakt met Canon [5D mk4](../over-mij.md)_

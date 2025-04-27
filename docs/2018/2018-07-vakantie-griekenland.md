@@ -22,4 +22,4 @@ Afgelopen zomer hebben we genoten van een heerlijke vakantie in Griekenland. Het
 
 ![Dromerig strand in Griekenland](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2018-07_griekenland/HN_0060-01.jpg)
 
-_Gemaakt met Canon 5D mk4_
+_Gemaakt met Canon [5D mk4](../over-mij.md)_

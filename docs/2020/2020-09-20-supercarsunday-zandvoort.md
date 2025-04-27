@@ -2,6 +2,8 @@
 
 Op een zonnige zondagochtend bezochten we Supercar Sunday op Circuit Zandvoort, een autoshow waar prachtige auto’s centraal stonden. Het was een feest voor het oog, vooral door de indrukwekkende supercars – snelle sportauto’s die glinsterden in het zonlicht. De iconische locatie maakte het extra speciaal, en het was gaaf om te zien hoe sommige auto’s zelfs even over het circuit scheurden. In coronatijd was het extra bijzonder om er even op uit te gaan en te genieten van zoiets moois. De sfeer was ontspannen, en het voelde als een welkome afwisseling na al die tijd thuis. Een geslaagde ochtend vol droomauto’s en goede vibes op Circuit Zandvoort!
 
+_Gemaakt met Canon [5D mk4](../over-mij.md)_
+
 ![Audi RS6 bij Supercar Sunday Zandvoort](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2020-09-20-superCarSunday-zandvoort/carsunday_20200920_01.jpg)
 
 ![Grote uitlaat pijpen](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2020-09-20-superCarSunday-zandvoort/carsunday_20200920_02.jpg)

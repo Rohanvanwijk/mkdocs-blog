@@ -14,4 +14,4 @@ Wil je meer weten over Koningshof? Bezoek de [officiële website van Nationaal P
 
 ![Bos in Landgoed Koningshof, Overveen](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2019-09-12-Koningshof/tkoningshof-28.jpg)
 
-_Geschoten met Canon 5D4_
+_Foto's zijn genomen met [Canon 5D4](../over-mij.md)._

@@ -24,3 +24,5 @@ De foto’s die we die dag hebben gemaakt, zijn hieronder te zien. Benieuwd naar
 ![Volkswagen Golf GTI mk8 en Volkswagen Polo AW](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2025-03-16-automotive-shoot/20250316_naamloos_0007-3-bewerkt.jpg)
 
 ![Een grid van Volkswagen Golf GTI mk8](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2025-03-16-automotive-shoot/grid-2.jpg)
+
+_Gemaakt met Canon [5D mk4](../over-mij.md) en Canon 100D_

@@ -18,4 +18,4 @@ Vliegveld Texel, gelegen op het Waddeneiland Texel in Nederland, is een klein ma
 
 ![Een vliegtuig aan het landen op Texel](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900//2020-06-20-Texel-vliegveld/20200623-airportTexel-92.jpg)
 
-_Gemaakt met Canon 5D mk4_
+_Gemaakt met Canon [5D mk4](../over-mij.md)_

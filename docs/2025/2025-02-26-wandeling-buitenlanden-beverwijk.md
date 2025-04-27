@@ -20,4 +20,4 @@ Het pad slingerde verder door uitgestrekte weilanden, waar het groen zich in all
 
 ![Vliegtuigen vliegen boven je bij De Buitenlanden in Beverwijk](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-800/2025-02-26_wandeling-buitenlanden-beverwijk/2025-02-26_wandeling-buitenlanden-beverwijk-01.JPG)
 
-_Foto's zijn genomen met Canon EOS 350D en 28mm lens_
+_Foto's zijn genomen met [Canon EOS 350D](../over-mij.md) en 28mm lens_
