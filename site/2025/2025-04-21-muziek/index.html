@@ -112,6 +112,19 @@ lang="nl">
       }
     }
   </style>
+  <script>
+    document.addEventListener('click', (event) => {
+      const host = event.target.host;
+      if (!host) {
+        return;
+      }
+      if (host === 'localhost' || host === 'localhost:8000' || host === 'rohanvanwijk.nl') {
+        return;
+      }
+      window.open(event.target.href, '_blank');
+      event.preventDefault();
+    });
+  </script>
 
     
     <!-- search css support -->
@@ -710,7 +723,7 @@ lang="nl">
 <nav>
     <ul>
         <li><a href="#mijn-favoriete-muziek-live-mixes-en-artiesten">🎶 Mijn Favoriete Muziek, Live Mixes en Artiesten</a></li>
-        <li><a href="#live-sets">Live sets</a></li><li><a href="#downloads">Downloads</a></li>
+        <li><a href="#muziek-mixen">Muziek mixen</a></li><li><a href="#live-sets">Live sets</a></li><li><a href="#downloads">Downloads</a></li>
     </ul>
 </nav>
 </aside>
@@ -750,6 +763,18 @@ lang="nl">
     <h1 id="mijn-favoriete-muziek-live-mixes-en-artiesten">🎶 Mijn Favoriete Muziek, Live Mixes en Artiesten</h1>
 <p>Naast mijn liefde voor fotografie 📷 ben ik ook enorm gepassioneerd over muziek. Ik geniet van uiteenlopende genres – van diepe elektronische beats 🔊 tot soulvolle klanken 🎷.</p>
 <p>Op deze pagina deel ik niet alleen mijn favoriete tracks 🎧, maar ook inspirerende live mixes, artiesten die me raken 💫, en soms zelfs toffe downloads 📥. Deze selectie wordt regelmatig bijgewerkt, dus kom vooral vaker terug om nieuwe muziek te ontdekken!</p>
+<h2 id="muziek-mixen">Muziek mixen</h2>
+<p>Ik draai zelf ook af en toe onder de alias <a href="https://www.youtube.com/@Frontroh">FRONTROH</a> — hieronder een paar van m’n mixes!</p>
+<p><strong>Drum and Bass</strong></p>
+<ul>
+<li><a href="https://soundcloud.com/dj-rohan-haarlem/frontroh-liquicity-festival-2025-dj-contest?si=55c99597cc9745acb4247dcc10895401&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing">FRONTROH - Liquicity Festival 2025 - DJ CONTEST</a></li>
+<li><a href="https://www.mixcloud.com/frontroh/dnb-roller-set/">DnB Roller set</a></li>
+</ul>
+<p><strong>Anders</strong></p>
+<ul>
+<li><a href="https://soundcloud.com/dj-rohan-haarlem/deep-house-set?si=6da925132153419d8b42d7a544abeccf&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing">Deep House set</a></li>
+<li><a href="https://soundcloud.com/dj-rohan-haarlem/frontroh-synetic-jubilleum?si=95a1c6b41bfe46cea9977fa13e25e22c&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing">FRONTROH @ Synetic Jubilleum</a></li>
+</ul>
 <h2 id="live-sets">Live sets</h2>
 <h3 id="drum-and-bass">Drum and Bass</h3>
 <ul>

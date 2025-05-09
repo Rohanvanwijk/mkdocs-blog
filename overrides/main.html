@@ -52,6 +52,19 @@
       }
     }
   </style>
+  <script>
+    document.addEventListener('click', (event) => {
+      const host = event.target.host;
+      if (!host) {
+        return;
+      }
+      if (host === 'localhost' || host === 'localhost:8000' || host === 'rohanvanwijk.nl') {
+        return;
+      }
+      window.open(event.target.href, '_blank');
+      event.preventDefault();
+    });
+  </script>
 {%- endblock extrahead %}
 
 {%- block site_lang %}
