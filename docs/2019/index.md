@@ -11,7 +11,7 @@ tiles:
 
 # Overzicht 2019
 
-- [Magische momenten in Disneyland Parijs](./2019-08-08-disneyland-parijs.md)
-- [Parijs vanaf de Top: Een Familietrip vol Hoogtepunten](./2019-08-10-parijs.md)
-- [Wandelen in Landgoed Koningshof](./2019-09-12-koningshof.md)
 - [Onze Gezellige Familievakantie bij Green Resort Mooi Bemelen](./2019-12-19-bemelen.md)
+- [Wandelen in Landgoed Koningshof](./2019-09-12-koningshof.md)
+- [Parijs vanaf de Top: Een Familietrip vol Hoogtepunten](./2019-08-10-parijs.md)
+- [Magische momenten in Disneyland Parijs](./2019-08-08-disneyland-parijs.md)

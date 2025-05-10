@@ -11,6 +11,6 @@ tiles:
 
 # Overzicht 2018
 
-- [Vakantie Griekenland](./2018-07-vakantie-griekenland.md)
-- [Gouden momenten bij Lichtfabriek Haarlem](./2018-07-24-shoot-lichtfabriek-haarlem.md)
 - [Lancia meeting dag](./2018-09-09-lancia-dag.md)
+- [Gouden momenten bij Lichtfabriek Haarlem](./2018-07-24-shoot-lichtfabriek-haarlem.md)
+- [Vakantie Griekenland](./2018-07-vakantie-griekenland.md)

@@ -11,6 +11,6 @@ tiles:
 
 # Overzicht 2020
 
-- [Vliegtuig spotten op Texel](2020-06-20-texel-vliegveld.md)
 - [Kerstmagie in Maastricht](./2020-12-21-kerst-maastricht.md)
 - [SuperCar Sunday Zandvoort](./2020-09-20-supercarsunday-zandvoort.md)
+- [Vliegtuig spotten op Texel](2020-06-20-texel-vliegveld.md)
