@@ -1,4 +1,4 @@
-# Wandeling in 't Wed Bloemendaal: Natuurfotografie in de Duinen | Koningsdag 2025
+# Wandelen op Koningsdag bij ’t Wed in Bloemendaal – Zon, Duinen en Natuurfotografie
 
 Op 26 april vierden we alvast Koningsdag met een mooie wandeling in natuurgebied 't Wed in Bloemendaal aan Zee. Omdat de verjaardag van de koning op zondag 27 april viel, trokken we er een dag eerder op uit. Het weer was ideaal: zonnig, warm en perfect voor een actieve dag buiten.
 
