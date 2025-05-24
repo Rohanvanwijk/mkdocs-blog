@@ -11,6 +11,7 @@ tiles:
 
 # Overzicht 2025
 
+- [Een Dag vol Benzinegeur en Zonneschijn: Cars & Coffee bij Eiland van Maurik](2025-05-18-cars-coffee.md)
 - [Web Animaties](2025-05-10-web-animaties.md)
 - [Mijn Favoriete Muziek](2025-04-21-muziek.md)
 - [Wandeling in 't Wed Bloemendaal](2025-04-26_wandeling-wed-bloemendaal.md)
