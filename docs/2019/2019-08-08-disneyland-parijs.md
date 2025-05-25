@@ -2,8 +2,6 @@
 
 Deze zomer brachten we een onvergetelijke dag door in Disneyland Parijs, waar de magie tot leven kwam! Samen met mijn familie verkenden we het park, genoten van spectaculaire attracties en gilden we van plezier in de achtbanen. De glimlachen, de lachbuien en de gedeelde verwondering maakten deze dag extra speciaal. Een zomerherinnering om koesteren! ✨🎢
 
-
-
 ![De bank in Disneyland Parijs](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2019-08-08-disneyland-parijs/disneyparijs-1.jpg)
 
 ![Een vroege morgen in Disneyland Parijs](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2019-08-08-disneyland-parijs/disneyparijs-2.jpg)

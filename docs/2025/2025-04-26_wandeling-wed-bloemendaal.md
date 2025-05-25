@@ -4,7 +4,7 @@ Op 26 april vierden we alvast Koningsdag met een mooie wandeling in natuurgebied
 
 't Wed is een prachtig duingebied en een ideale plek om te wandelen in de duinen van Noord-Holland. Natuurlijk namen we de camera mee om de schoonheid van de natuur vast te leggen. Achteraf had ik spijt dat ik mijn telelens niet had meegenomen, want we kwamen opvallend veel dieren tegen – een gemiste kans voor close-up natuurfotografie!
 
-Bekijk hieronder de foto's die we hebben gemaakt tijdens ons dagje uit in Bloemendaal. 
+Bekijk hieronder de foto's die we hebben gemaakt tijdens ons dagje uit in Bloemendaal.
 
 ![Collage van natuurfoto's gemaakt tijdens wandeling in 't Wed Bloemendaal](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2025-04-26-wandeling-wed-bloemendaal/collage-1.jpg)
 
