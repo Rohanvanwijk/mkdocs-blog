@@ -11,6 +11,7 @@ tiles:
 
 # Overzicht 2025
 
+- [Bezoek aan de Historic Zandvoort Trophy: Klassieke Auto's & Racen](2025-05-31-historic-zandvoort-trophy.md)
 - [Een Dag vol Benzinegeur en Zonneschijn: Cars & Coffee bij Eiland van Maurik](2025-05-18-cars-coffee.md)
 - [Web Animaties](2025-05-10-web-animaties.md)
 - [Mijn Favoriete Muziek](2025-04-21-muziek.md)
