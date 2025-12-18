@@ -9,7 +9,8 @@ Used tools
 ## How to get started
 
 1. Install [Mkdocs](https://www.mkdocs.org/) -- pip install mkdocs
-2. run mkdocs serve
+2. run mkdocs serve (for local dev)
+3. run mkdocs build (to build)
 
 ## Tips
 
