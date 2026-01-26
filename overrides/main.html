@@ -1,4 +1,5 @@
-{% extends "base.html" %} {%- block extrahead %} {{ super() }}
+{% extends "base.html" %}
+{%- block extrahead %} {{ super() }}
 <meta
   property="og:description"
   content="Ontdek de wereld door mijn lens! Op mijn blog deel ik mijn passie voor fotografie met adembenemende foto's van natuur, steden en bijzondere momenten. Laat je inspireren en geniet van mijn visuele verhalen!"
@@ -61,8 +62,13 @@
     }
   }
 </script>
-<!-- Analytics -->
-<script async data-id="101479283" src="//static.getclicky.com/js"></script>
+	 <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N6Z8S8MP');</script>
+<!-- End Google Tag Manager -->
 <style>
   @media only screen and (max-width: 70em) {
     #terminal-mkdocs-side-panel {
@@ -87,5 +93,9 @@
     event.preventDefault()
   })
 </script>
-{%- endblock extrahead %} {%- block site_lang %} lang="nl" {%- endblock
-site_lang %}
+{%- endblock extrahead %}
+
+
+{%- block site_lang %}
+lang="nl"
+{%- endblock site_lang %}
