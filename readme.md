@@ -16,7 +16,7 @@ Used tools
 
 - Dont use underscore for filenames in docs
 - prefix image kit url with cloudflare worker for the correct signature: https://imagekit.rohan-10.workers.dev?url=foo
-- Windows desktop build command: python3 C:\Users\rohan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\mkdocs\_\_main\_\_.py build
+- Windows desktop build command: python3 "C:\Users\rohan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\mkdocs\_\_main\_\_.py" build
 
 ## Image magick commands
 
