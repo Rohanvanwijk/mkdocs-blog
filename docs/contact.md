@@ -7,6 +7,7 @@
   <input type="email" id="email" name="email" required><br>
   <label for="message">Bericht:</label><br>
   <textarea id="message" name="message" required></textarea><br>
+  <div class="cf-turnstile" data-sitekey="0x4AAAAAADpokISYzhKuoqhj"></div>
   <input type="submit" value="Verzenden">
 </form>
 
