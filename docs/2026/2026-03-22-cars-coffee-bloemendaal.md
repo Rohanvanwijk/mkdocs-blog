@@ -21,7 +21,6 @@ Maar misschien wel het mooiste van alles was het geluid. Over het hele terrein k
 ![Photo](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/2026-03-22-cars-coffee-bloemendaal/IMG_7241.jpg)
 ![Photo](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/2026-03-22-cars-coffee-bloemendaal/IMG_7259.jpg)
 ![Photo](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/2026-03-22-cars-coffee-bloemendaal/IMG_7251.jpg)
-![Photo](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/2026-03-22-cars-coffee-bloemendaal/collage-04.jpg)
 ![Photo](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/2026-03-22-cars-coffee-bloemendaal/IMG_7255.jpg)
 
 _Geschoten met [Canon 800D](../over-mij.md) met 28mm lens_
