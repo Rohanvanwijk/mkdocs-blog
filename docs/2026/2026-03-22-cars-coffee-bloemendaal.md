@@ -13,7 +13,6 @@ Maar misschien wel het mooiste van alles was het geluid. Over het hele terrein k
 ![Red Abarth with trunk open](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/2026-03-22-cars-coffee-bloemendaal/IMG_7289.jpg)
 ![Photo](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/2026-03-22-cars-coffee-bloemendaal/IMG_7291.jpg)
 ![Photo](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/2026-03-22-cars-coffee-bloemendaal/collage-06.jpg)
-![Photo](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/2026-03-22-cars-coffee-bloemendaal/collage-03.jpg)
 ![Photo](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/2026-03-22-cars-coffee-bloemendaal/IMG_7230.jpg)
 ![Photo](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/2026-03-22-cars-coffee-bloemendaal/IMG_7244.jpg)
 ![Photo](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/2026-03-22-cars-coffee-bloemendaal/collage-01.jpg)

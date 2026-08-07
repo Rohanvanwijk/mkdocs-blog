@@ -1,7 +1,7 @@
 ---
 show_tiles_first: true
 tiles:
-  - img_src: https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:ar-1-1,w-200/2019-08-08-disneyland-parijs/disneyparijs-7.jpg
+  - img_src: https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-200,ar-1-1/cities-netherlands/delft-gracht-met-bloemen.jpg
     alt_text: "Buzz Lightyear"
   - img_src: https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-200,ar-1-1/2025-03-16-automotive-shoot/20250316_naamloos_0006-4.jpg
     alt_text: "Golf GTI op een ramp"
