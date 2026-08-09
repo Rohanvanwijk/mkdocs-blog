@@ -1,10 +1,10 @@
 ---
 tiles:
-  - img_src: https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-200/2025-02-26_wandeling-buitenlanden-beverwijk/2025-02-26_wandeling-buitenlanden-beverwijk-02.JPG
+  - img_src: https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-200/2025-02-26_wandeling-buitenlanden-beverwijk/beverwijk-buitengebied-veld.jpg
     alt_text: Lente komt eraan, De Buitenlanden in Beverwijk
-  - img_src: https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-200/2025-02-26_wandeling-buitenlanden-beverwijk/2025-02-26_wandeling-buitenlanden-beverwijk-03.JPG
+  - img_src: https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-200/2025-02-26_wandeling-buitenlanden-beverwijk/beverwijk-winterdistels-blauwe-lucht.jpg
     alt_text: Druivenplantage in De Buitenlanden in Beverwijk
-  - img_src: https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-200/2025-02-26_wandeling-buitenlanden-beverwijk/2025-02-26_wandeling-buitenlanden-beverwijk-04.JPG
+  - img_src: https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-200/2025-02-26_wandeling-buitenlanden-beverwijk/beverwijk-wijngaard-veld.jpg
     alt_text: Uitgestrekte Weilanden in De Buitenlanden in Beverwijk
 ---
 

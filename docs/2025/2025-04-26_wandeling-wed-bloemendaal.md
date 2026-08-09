@@ -10,13 +10,11 @@ Bekijk hieronder de foto's die we hebben gemaakt tijdens ons dagje uit in Bloeme
 
 ![Zonnige duinlandschap met golvende zandheuvels en vegetatie in 't Wed Bloemendaal](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2025-04-26-wandeling-wed-bloemendaal/20250426_april_0076.jpg)
 
-![Schilderachtig duinlandschap met kronkelende paden en weelderige begroeiing in natuurgebied 't Wed](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2025-04-26-wandeling-wed-bloemendaal/20250426_april_0117.jpg)
-
 ![Collage van diverse natuurbeelden uit 't Wed met duinlandschappen, vegetatie en wandelpaden](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2025-04-26-wandeling-wed-bloemendaal/collage-2.jpg)
 
-![Sfeervol pad door de duinen met overhangende takken en zonlicht dat door de bomen schijnt in natuurgebied 't Wed](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2025-04-26-wandeling-wed-bloemendaal/20250426_t-wed_0017.jpg)
+![Houten kader meer landschap](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2025-04-26-wandeling-wed-bloemendaal/houten-kader-meer-landschap.jpg)
 
-![Collage van diverse natuurbeelden uit 't Wed met duinlandschappen, vegetatie en wandelpaden](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2025-04-26-wandeling-wed-bloemendaal/collage-2.jpg)
+![Zonnestralen in het bos](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2025-04-26-wandeling-wed-bloemendaal/bos-landschap-zonnestralen.jpg)
 
 ![Collage van verschillende natuurfoto's met duinlandschappen, bloemen en wandelpaden in 't Wed Bloemendaal](https://imagekit.rohan-10.workers.dev?url=https://ik.imagekit.io/rhn00jwt/tr:w-900/2025-04-26-wandeling-wed-bloemendaal/collage-3.jpg)
 
