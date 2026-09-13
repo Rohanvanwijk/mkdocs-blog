@@ -12,5 +12,6 @@ tiles:
 # Overzicht 2026
 
 - [F1 Zandvoort laatste editie](2026-08-21-f1-zandvoort.md)
+- [Bezoek aan het Nationales Automuseum in Duitsland](2026-04-03-nationalesautomuseum.md)
 - [Cars & Coffee in Bloemendaal](2026-03-22-cars-coffee-bloemendaal.md)
 - [Haarlem vanaf het water](2026-06-10-haarlem-boot.md)
